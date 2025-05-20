@@ -1,3 +1,9 @@
+## Scripts
+[CREATE](https://github.com/Faltrenn/engsoft/blob/main/scripts/create_db.sql)
+[INSERT](https://github.com/Faltrenn/engsoft/blob/main/scripts/insert.sql)
+[REFRESH](https://github.com/Faltrenn/engsoft/blob/main/scripts/refresh.sql)
+[LIST_ALL](https://github.com/Faltrenn/engsoft/blob/main/scripts/list_all.sql)
+
 ## Resumo sobre ODBC
 
 ODBC (Open Database Connectivity) é uma interface padrão para acesso a sistemas gerenciadores de banco de dados (SGBDs). Criado pela Microsoft, o ODBC permite que aplicações se conectem a diferentes bancos de dados (como PostgreSQL, MySQL, SQL Server, etc.) usando um driver específico para cada tipo de banco.
